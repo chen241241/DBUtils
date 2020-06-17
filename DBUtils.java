@@ -31,7 +31,7 @@ public class DBUtils {
     mysqlDataSource.setPort(3306);
     mysqlDataSource.setDatabaseName("customer");
     mysqlDataSource.setUser("root");
-    mysqlDataSource.setPassword("chen241241");
+    mysqlDataSource.setPassword("123456");
     mysqlDataSource.setServerTimezone("GMT+8");
 
     EntityModel model = Models.DEFAULT;
